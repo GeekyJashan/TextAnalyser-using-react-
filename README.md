@@ -1,5 +1,5 @@
 #Deployed on
-https://phenomenal-praline-ace25a.netlify.app/
+https://textifyzer.netlify.app/
 
 # Getting Started with Create React App
 
