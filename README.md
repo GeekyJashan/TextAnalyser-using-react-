@@ -1,4 +1,4 @@
-#Deployed on
+#Deployed and Hosted on
 https://textifyzer.netlify.app/
 
 # Getting Started with Create React App
